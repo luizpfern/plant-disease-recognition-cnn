@@ -1,0 +1,10 @@
+# Ignora as imagens de treino.
+# Fonte das imagens: https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
+dataset/train/
+
+# Ignora os modelos treinados.
+models/
+*.h5
+
+#ignora imagens de teste
+dataset/test/
